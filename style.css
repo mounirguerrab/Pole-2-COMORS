@@ -1,0 +1,20 @@
+#logo {
+    width: 50%;
+    position: relative;
+    left: 25%;
+    top: 10px;
+}
+
+#logo > img {
+    width: 100%;
+}
+
+form {
+    position: relative;
+    left: 40%;
+}
+
+#button {
+    position: relative;
+    left: 50px;
+}
